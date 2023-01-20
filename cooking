@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title> History</title>
+        </head>
+        <body>
+            <header style="background-color:black;">
+                <img src="https://assets.website-files.com/60dd9083125eb44675d01dba/60dd9083125eb4580ad01eb6_Hero-image.png" height="50px"/>
+        <a style="color:white;" href="https://en.wikipedia.org/wiki/Cooking"> History</a>
+            </header>
+        <main style="background-color:SlateGrey;">
+            <h1 style="font-size:50px;background-color:lightgray; text-align:center">Cooking Classes </h1>
+    <img src="https://www.foodfrontier.org/wp-content/uploads/2022/09/FF-home-hero-image-2.png" height="150"/>
+    <img src="https://eufic-1c6bf.kxcdn.com/en/images/uploads/home/slider/1_Jan_Plant-basedDiets_Website.png" height="150"/>
+     <img src="https://www.dairyqueen.com/dA/5fc4b39d2e/fileAsset/BaconTwoCheeseDuo.png" height="150"/>
+    <p style="font-size:20px">We invite you to study any type of food you like. We offer: traditional food, fansy food and much more. Our classes are taught by professional chefs in groups of different levels.</p>
+        </main>
+        <footer style="background-color:black;color:white ">
+            <p style="font-size:15px"> Address: 1 Alexidze st</p>
+            <p> Tel:596 777 888</p>
+        </footer>
+        </body>
+</html>
