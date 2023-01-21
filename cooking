@@ -13,7 +13,45 @@
     <img src="https://eufic-1c6bf.kxcdn.com/en/images/uploads/home/slider/1_Jan_Plant-basedDiets_Website.png" height="150"/>
      <img src="https://www.dairyqueen.com/dA/5fc4b39d2e/fileAsset/BaconTwoCheeseDuo.png" height="150"/>
     <p style="font-size:20px">We invite you to study any type of food you like. We offer: traditional food, fansy food and much more. Our classes are taught by professional chefs in groups of different levels.</p>
-        </main>
+<h1>what are we going to learn </h1>
+        <td>
+        </td>
+       <td> Mondey</td>
+       <td> Thusday</td>
+       <td> Wednesdy</td>
+       <td> Thursday</td>
+       <td> Friday</td>
+        </tr>
+       
+            <tr style="border:1px solid indigo">
+            <td style="background-color: Cadetblue; color: black;"> 1st lesson</td>
+          <td> Burger</td>
+          <td> pizza</td>
+          <td> ice cream</td>
+          <td> pasta</td>
+        <td> khatchapuri</td>
+            </tr>
+           
+        <tr style="border:1px solid indigo ">
+            <td style="background-color: Cadetblue; color: black;">2nd lesson</td>
+             <td> lazagna</td>
+             <td>   khinkali</td>
+            <td> lobiani</td>
+            <td>  cake</td> 
+            <td>  fried potato</td>
+             </tr>
+           
+           </tr style="border:1px solid indigo">
+             <td style="background-color: Cadetblue; color black;">3rd lesson</td>         
+            <td> salad </td>
+            <td> sushi  </td>
+            <td> noodles </td>
+            <td> steak</td>
+            <td> wrap </td>
+            <tr>
+            </tr>
+            </table>
+            </main>
         <footer style="background-color:black;color:white ">
             <p style="font-size:15px"> Address: 1 Alexidze st</p>
             <p> Tel:596 777 888</p>
